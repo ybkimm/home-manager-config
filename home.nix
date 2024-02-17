@@ -22,6 +22,7 @@ in {
   # environment.
   home.packages = [
     pkgs.hello
+    pkgs.fish
     pkgs.tmux
     pkgs.act
     pkgs.go
