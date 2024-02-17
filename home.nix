@@ -25,11 +25,6 @@ in {
     pkgs.tmux
     pkgs.act
     pkgs.go
-    pkgs.tinygo
-    pkgs.nodejs_18
-    pkgs.rustc
-    pkgs.cargo
-    pkgs.hugo
 
     warrant-cli
     qbe
