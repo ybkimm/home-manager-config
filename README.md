@@ -6,17 +6,17 @@
 
 ## Packages
 
-- `hello`: The "Hello, world!" package.
-- [`fish`](https://fishshell.com/): Command line shell for 90s!
-- [`tmux`](https://github.com/tmux/tmux): Terminal multiplexer
 - [`act`](https://github.com/nektos/act): Run GitHub actions locally
+- [`fish`](https://fishshell.com/): Command line shell for 90s!
 - [`go`](https://go.dev/): The Go programming language
-- [`warrant-cli`](https://warrant.dev/): Command line utility for Warrant
-- [`qbe`](https://c9x.me/compile/): Compiler backend
+- [`goose`](https://github.com/pressly/goose): A database migration tool
+- [`huggingface-hub`](https://huggingface.co/): Huggingface
 - [`python3`](https://python.org/): Python (3.11)
-  - [`yt-dlp`](https://github.com/yt-dlp/yt-dlp): Youtube (and many others) downloader  
-  - [`huggingface-hub`](https://huggingface.co/): Huggingface
-- 
+- [`qbe`](https://c9x.me/compile/): Compiler backend
+- [`tmux`](https://github.com/tmux/tmux): Terminal multiplexer
+- [`warrant-cli`](https://warrant.dev/): Command line utility for Warrant
+- [`yt-dlp`](https://github.com/yt-dlp/yt-dlp): Youtube (and many others) downloader
+- `hello`: The "Hello, world!" package.
 
 
 ## Memo
@@ -28,4 +28,4 @@
 
 ## TODO
 
-- Configurations.
+- ...
