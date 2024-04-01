@@ -2,7 +2,7 @@ with import <nixpkgs> {};
 
 pkgs.buildGoModule rec {
   name = "warrant-cli";
-  version = "0.11.0";
+  version = "0.13.0";
 
   src = pkgs.fetchFromGitHub {
     owner = "warrant-dev";

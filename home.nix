@@ -1,6 +1,7 @@
 { stdenv, config, pkgs, fetchFromGitHub, lib, ... }:
 
 let
+  goose = import ./goose.nix;
   warrant-cli = import ./warrant-cli.nix;
   qbe = import ./qbe.nix;
 in {
@@ -26,7 +27,9 @@ in {
     pkgs.tmux
     pkgs.act
     pkgs.go
+    pkgs.nodejs_20
 
+    goose
     warrant-cli
     qbe
 
