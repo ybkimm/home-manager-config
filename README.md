@@ -1,3 +1,6 @@
+I'm switched to nixos
+See https://github.com/ybkimm/nixos-config
+
 # My nix configuration
 
 - OS: Fedora Asahi Remix
